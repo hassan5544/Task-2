@@ -1,0 +1,54 @@
+Q1 : 
+Sol :
+ O(n) cause the for loop make a linear comlexity 
+
+-----------------------------
+
+Q2 : 
+Sol : 
+O(n - 1) cause the complexity of the function will be depened on the value of b - 1 
+
+
+----------------------------
+
+
+Q3 :
+Sol: O(1) there is no complexity that can be variable 
+
+----------------------------
+
+Q4 : 
+Sol: O(n) cause the for loop make a linear comlexity 
+
+---------------------
+
+Q5 : 
+Sol : o(Log(n)) cause its a binary search tree that will do a n/2 search way so the complexity is O(log(n))
+
+---------------------------------
+
+Q6 :
+Sol:  sqrt(n) cause the fator of the complexity is multiplied by it self so to find the time complexity we need to take the root of the equation that effect the loop 
+
+
+-------------------------------
+
+Q7 : 
+Sol : O(n) you would make the binary tree as an array and u need to loop each node by itself and thus the complexity would be the number of leafs in the tree
+
+
+----------------------
+
+Q8 : 
+Sol : O(n) the unorderd binary search tree would require to check each element by it self one by one and thus the worst case would be a linear 
+
+
+-------------------------
+
+
+Q9 :
+Sol : O(n square) you need to loop one time so u copy the array and then loop again to append the value
+
+-------------------------------
+
+Q10 : need to specify whats the e in the code please 
